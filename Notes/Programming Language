@@ -1,0 +1,26 @@
+###*** Programming language ***###
+-> Programming language is a medium or mode of communication with the systems or machines.
+
+<*** Type of Programming languages ***>
+> Low level programming language 
+> High level programming language 
+> Intermediate programming language 
+
+1] Low Level Programming Language  :- A language which is understood by systems is known as low-level programming language. Low level programming language contains Binary Code (0's & 1's)
+
+2] High Level Programming Language :- A language which is understood by humans is known as high-level programming language.
+
+3] Intermediate Programming Language :- A language which is not understood by human as well as systens/machines is known as intermediate programming language.
+
+
+
+*** Platform ***
+-> Platform is nothing but place which is used to communicate with operating systems.
+
+1) Platform Dependent :- An application developed in one operating system can run in same operating systems only is known as platform dependent. 
+
+2) Platform Independent :- An application developed in one operating system can run in any other operating system is called as platform independent.
+
+*** Command Prompt ***
+-> Command prompt is a place or interface which is used to perform some operations by communicating operating systems.
+  

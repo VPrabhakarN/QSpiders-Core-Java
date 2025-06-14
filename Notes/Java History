@@ -1,0 +1,39 @@
+*** History of Java ***
+> Java was introduced by James Gosling.
+> Java was introduced by Sun Micro Systems.
+> Current owner of the java is Oracle.
+> Previous name of Java is Oak.
+
+*** Why Java? Features of Java ***
+1) Java is simple language because syntax of java is very easy.
+2) Java is platform independent means we can run Java Application in any OS.
+3) Java is object oriented programming language means based on real world entities we will develop applications.
+4) Java is extensible means Java can interact with any other programming language.
+5) Java is robust means we can develop huge applications (complex applications) in Java.
+6) Java has automatic garbage collector which will clear the memory after execution of the application.
+
+*** Steps to run Java program ***
+> Create a file 
+> Compilation
+> Execution 
+
+# Create a file :- 
+-> With the help of editors create a file along with a extension '.java'.
+-> Inside the file we can have 2 things : 1) Class & 2) Interface
+
+# Compilation :-
+-> To compile Java program we need software called 'Compiler'.
+-> Compiler is also known as Javac.
+-> Compiler will take .java file as a input & read it the code line by line.
+-> If there is mistake with syntax, Compiler will throw back the file to the devloper to debug the code.
+-> If there are 0 errors then compiler will generate one more file '.class' file which contains byte code.
+** Byte Code ** :- Byte code is nothing but the itermediate programming language both huamn and machine cannot understand.
+
+# Execution :- 
+-> To execute Java program we need Software called JRE.
+-> JRE stands for "Java Runtime Environment"
+-> Java will take '.class' file as a input.
+
+# Printing Statements 
+1) System.out.print() :- It will print the data and holds the curser in same line.
+2) System.out.println() :- It will print the data and shift the cursor to next line.

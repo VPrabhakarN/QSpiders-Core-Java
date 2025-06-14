@@ -1,0 +1,42 @@
+*** Tokens ***
+-> Tokens are nothing but smallest component of any programming language.
+-> Tokens are classified into 3 types
+   1) Keyword
+   2) Identifiers 
+   3) Literals 
+
+# Keywords :-
+> Keywords are nothing but predefined words which are aware by the computer.
+> In Java, we have 50+ keywords.
+> Examples : class, public, true, static, void, false, etc.
+
+* Rules of Keywords: 1) Keywords should be specified in lowercase only.
+
+
+# Identifier :-
+> Identifier is nothing but a name given to java components.
+> With respect to indefiers we have 2 follow 2 things.
+  1) Rules 
+  2) Conventions
+
+  1) Rules :- 
+     a) Identifiers cannot start with the numbers.
+     b) Only '$' and '_' are allowed to use as special character.
+     c) *Keywords* cannot be used as identifiers
+
+  2) Conventions :-
+     > Conventions are nothing but industry standards.
+     > While specifying identifier of a class have to follow 'UpperCamelCase'.
+
+   * Note : Compiler will check the rules only not check the convensions.
+
+
+# Literals :- 
+> Literals are nothing but values passed by the programmer in a program.
+> Literals are classified into the 4 different types :
+  1) Number Literal : Numbers can be represented directly.
+  2) Character Literal : Character literals should be represented within single quotes.
+  3) String Literal : String literals should be enclosed within double quotes.
+  4) Boolean Literal : Boolean literals are nothing but 'true' and 'false' values.
+
+  

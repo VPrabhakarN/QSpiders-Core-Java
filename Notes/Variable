@@ -1,0 +1,13 @@
+*** Variable *** 
+-> Variable is nothing but a container or block of memory which is used to store data.
+-> Syntax -
+           // Variable declaration and initialization
+           Datatype Identifier = Value;
+  ex.        int       age     = 1923;
+
+-> Advantages of variable :-
+   > To store or fetch the data is very easy.
+   > We can re-assign the value for n number of time.
+
+-> Disadvantages :- 
+   > Within variable we can store single value.
